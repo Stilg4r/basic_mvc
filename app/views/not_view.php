@@ -1,0 +1,1 @@
+esta vista se una cuando no se define una vista
